@@ -1,0 +1,46 @@
+{
+    "2": {
+        "id": 3,
+        "modelo": "Golf",
+        "marca": "Volkswagen",
+        "categoria": "Hatchback",
+        "ano": 2021,
+        "preco": 95000,
+        "cor": "Preto",
+        "quilometragem": 0,
+        "descricao": "",
+        "disponivel": true
+    },
+    "3": {
+        "id": 4,
+        "modelo": "Focus",
+        "marca": "Ford",
+        "categoria": "Hatchback",
+        "ano": 2018,
+        "preco": 65000,
+        "cor": "Azul",
+        "disponivel": true
+    },
+    "4": {
+        "id": 5,
+        "modelo": "Cruze",
+        "marca": "Chevrolet",
+        "categoria": "Sedan",
+        "ano": 2020,
+        "preco": 72000,
+        "cor": "Vermelho",
+        "quilometragem": 0,
+        "descricao": "",
+        "disponivel": false
+    },
+    "5": {
+        "id": 6,
+        "modelo": "jetta",
+        "marca": "Volkswagen",
+        "categoria": "Sedan",
+        "ano": 2026,
+        "preco": 200000,
+        "cor": "AZUL",
+        "disponivel": true
+    }
+}

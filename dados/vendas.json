@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "carro": "Golf",
+        "cliente": "João Silva",
+        "data": "2024-01-15",
+        "valor": 95000,
+        "pagamento": "À vista"
+    },
+    {
+        "id": 2,
+        "carro": "Civic",
+        "cliente": "Maria Santos",
+        "data": "2024-01-20",
+        "valor": 85000,
+        "pagamento": "Financiamento"
+    }
+]

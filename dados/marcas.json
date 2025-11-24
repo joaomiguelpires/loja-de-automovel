@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "nome": "Toyota",
+        "pais_origem": "Japão"
+    },
+    {
+        "id": 2,
+        "nome": "Honda",
+        "pais_origem": "Japão"
+    },
+    {
+        "id": 3,
+        "nome": "Ford",
+        "pais_origem": "Estados Unidos"
+    },
+    {
+        "id": 4,
+        "nome": "Chevrolet",
+        "pais_origem": "Estados Unidos"
+    },
+    {
+        "id": 5,
+        "nome": "Volkswagen",
+        "pais_origem": "Alemanha"
+    }
+]
